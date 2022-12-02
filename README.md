@@ -1,2 +1,2 @@
 # Book Catalog
-An iOS 15+ Core Data app that lets a user store books to a catalog.
+An iOS 15+ Core Data app that lets a user store books to a catalog. Final project for Mizzou's IT 4405: iOS App Dev class.
